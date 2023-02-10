@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "16.13.1",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.4.1"
+    },
+    "version": "1.16.1",
+    "libraryName": "crud-5",
+    "libraryId": "038e37a1-3eb7-4bf7-87f1-10c96d1dba02",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "crud-5",
+    "solutionShortDescription": "crud-5 description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
